@@ -1,0 +1,11 @@
+/home/marc/personal_projects/c-sharp/exercises/exercise 1/obj/Debug/netcoreapp3.0/exercise 1.csprojAssemblyReference.cache
+/home/marc/personal_projects/c-sharp/exercises/exercise 1/obj/Debug/netcoreapp3.0/exercise 1.AssemblyInfoInputs.cache
+/home/marc/personal_projects/c-sharp/exercises/exercise 1/obj/Debug/netcoreapp3.0/exercise 1.AssemblyInfo.cs
+/home/marc/personal_projects/c-sharp/exercises/exercise 1/bin/Debug/netcoreapp3.0/exercise 1
+/home/marc/personal_projects/c-sharp/exercises/exercise 1/bin/Debug/netcoreapp3.0/exercise 1.deps.json
+/home/marc/personal_projects/c-sharp/exercises/exercise 1/bin/Debug/netcoreapp3.0/exercise 1.runtimeconfig.json
+/home/marc/personal_projects/c-sharp/exercises/exercise 1/bin/Debug/netcoreapp3.0/exercise 1.runtimeconfig.dev.json
+/home/marc/personal_projects/c-sharp/exercises/exercise 1/bin/Debug/netcoreapp3.0/exercise 1.dll
+/home/marc/personal_projects/c-sharp/exercises/exercise 1/bin/Debug/netcoreapp3.0/exercise 1.pdb
+/home/marc/personal_projects/c-sharp/exercises/exercise 1/obj/Debug/netcoreapp3.0/exercise 1.dll
+/home/marc/personal_projects/c-sharp/exercises/exercise 1/obj/Debug/netcoreapp3.0/exercise 1.pdb
